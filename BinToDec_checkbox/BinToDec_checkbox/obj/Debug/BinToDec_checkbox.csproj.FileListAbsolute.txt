@@ -1,0 +1,9 @@
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\bin\Debug\BinToDec_checkbox.exe.config
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\bin\Debug\BinToDec_checkbox.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\bin\Debug\BinToDec_checkbox.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.Form1.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.Properties.Resources.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.csproj.GenerateResource.Cache
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\BinToDec_checkbox\BinToDec_checkbox\obj\Debug\BinToDec_checkbox.pdb
