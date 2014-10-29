@@ -16,3 +16,12 @@ C:\Users\Dominik\Desktop\vytah\vytah\obj\Debug\vytah.csprojResolveAssemblyRefere
 C:\Users\Dominik\Desktop\vytah\vytah\obj\Debug\vytah.Form1.resources
 C:\Users\Dominik\Desktop\vytah\vytah\obj\Debug\vytah.Properties.Resources.resources
 C:\Users\Dominik\Desktop\vytah\vytah\obj\Debug\vytah.csproj.GenerateResource.Cache
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\bin\Debug\vytah.exe.config
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\bin\Debug\vytah.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\bin\Debug\vytah.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.Form1.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.Properties.Resources.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\vytah\vytah\obj\Debug\vytah.csproj.GenerateResource.Cache
