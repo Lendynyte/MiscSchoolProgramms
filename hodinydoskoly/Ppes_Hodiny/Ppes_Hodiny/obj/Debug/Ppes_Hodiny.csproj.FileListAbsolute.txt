@@ -7,3 +7,12 @@ C:\Users\Dominik\Desktop\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Ho
 C:\Users\Dominik\Desktop\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.csproj.GenerateResource.Cache
 C:\Users\Dominik\Desktop\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.exe
 C:\Users\Dominik\Desktop\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\bin\Debug\Ppes_Hodiny.exe.config
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\bin\Debug\Ppes_Hodiny.exe
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\bin\Debug\Ppes_Hodiny.pdb
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.Form1.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.Properties.Resources.resources
+C:\Users\Dominik\Desktop\Lendynyte programming wonders\hodinydoskoly\Ppes_Hodiny\Ppes_Hodiny\obj\Debug\Ppes_Hodiny.csproj.GenerateResource.Cache

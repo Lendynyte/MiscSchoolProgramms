@@ -31,8 +31,8 @@
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.chkAnaDig = new System.Windows.Forms.CheckBox();
             this.chkVter = new System.Windows.Forms.CheckBox();
-            this.analogHod1 = new Ppes_Hodiny.AnalogHod();
             this.digitalHod1 = new Ppes_Hodiny.digitalHod();
+            this.analogHod1 = new Ppes_Hodiny.AnalogHod();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -75,11 +75,21 @@
             this.chkVter.AutoSize = true;
             this.chkVter.Location = new System.Drawing.Point(370, 30);
             this.chkVter.Name = "chkVter";
-            this.chkVter.Size = new System.Drawing.Size(77, 17);
+            this.chkVter.Size = new System.Drawing.Size(78, 17);
             this.chkVter.TabIndex = 0;
-            this.chkVter.Text = "Vterinovka";
+            this.chkVter.Text = "Vteřinovka";
             this.chkVter.UseVisualStyleBackColor = true;
             this.chkVter.CheckedChanged += new System.EventHandler(this.chkVter_CheckedChanged);
+            // 
+            // digitalHod1
+            // 
+            this.digitalHod1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.digitalHod1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.digitalHod1.Location = new System.Drawing.Point(0, 0);
+            this.digitalHod1.Name = "digitalHod1";
+            this.digitalHod1.Size = new System.Drawing.Size(471, 361);
+            this.digitalHod1.TabIndex = 1;
+            this.digitalHod1.Text = "digitalHod1";
             // 
             // analogHod1
             // 
@@ -89,14 +99,6 @@
             this.analogHod1.Size = new System.Drawing.Size(471, 361);
             this.analogHod1.TabIndex = 0;
             this.analogHod1.Text = "analogHod1";
-            // 
-            // digitalHod1
-            // 
-            this.digitalHod1.Location = new System.Drawing.Point(21, 53);
-            this.digitalHod1.Name = "digitalHod1";
-            this.digitalHod1.Size = new System.Drawing.Size(75, 23);
-            this.digitalHod1.TabIndex = 1;
-            this.digitalHod1.Text = "digitalHod1";
             // 
             // Form1
             // 

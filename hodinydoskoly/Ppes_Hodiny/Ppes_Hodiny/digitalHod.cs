@@ -30,6 +30,15 @@ namespace Ppes_Hodiny
             Graphics gr = pe.Graphics;
             Rectangle rect = this.ClientRectangle;
 
+            String txt= DateTime.Now.ToString("HH:mm:ss.fff");
+
+
+            using (SolidBrush br = new SolidBrush(this.ForeColor))
+            {
+                SizeF sz = gr.MeasureString(this.Text, this.Font);
+                gr.DrawString(txt, this.Font, br, (rect.Width - sz.Width) / 2, (rect.Height - sz.Height) / 2);
+            }
+
 
         }
 

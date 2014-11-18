@@ -16,6 +16,7 @@ namespace Ppes_Hodiny
         public Form1()
         {
             InitializeComponent();
+            chkAnaDig.Checked = true;
         }
 
         private void chkVter_CheckedChanged(object sender, EventArgs e)
