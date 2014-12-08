@@ -1,0 +1,9 @@
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\bin\Debug\Pauli_kalkulacka.exe.config
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\bin\Debug\Pauli_kalkulacka.exe
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\bin\Debug\Pauli_kalkulacka.pdb
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.csprojResolveAssemblyReference.cache
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.Form1.resources
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.Properties.Resources.resources
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.csproj.GenerateResource.Cache
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.exe
+H:\ppes\Pauli_kalkulacka\Pauli_kalkulacka\obj\Debug\Pauli_kalkulacka.pdb
